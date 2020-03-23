@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        System.out.println("Learnign Git");
-        System.out.println("Learnign Git");
+        System.out.println("Hello_Java");
     }
 }
